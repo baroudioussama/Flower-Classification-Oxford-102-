@@ -22,7 +22,7 @@
 
 > **Top-tier for frozen VGG16** — **102 classes, high similarity!**
 
-![Training Curves](results/flower_training_curves.png)  
-![Sample Predictions](results/predictions.png)
+![Training Curves](Training_Curves.png)  
+![Sample Predictions](Sample_Predictions.png)
 
 ---
