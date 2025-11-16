@@ -6,12 +6,12 @@
 ```markdown
 # 🌸 Oxford Flowers-102 Classification  
 **80% Accuracy in 10 Epochs with Frozen VGG16**
-
+```
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue)](https://www.python.org/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.10%2B-orange)](https://www.tensorflow.org/)
 [![Dataset](https://img.shields.io/badge/Dataset-Oxford%20102-green)](https://www.robots.ox.ac.uk/~vgg/data/flowers/102/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-```
+
 ---
 
 ## 📊 Results
@@ -26,11 +26,3 @@
 ![Sample Predictions](results/predictions.png)
 
 ---
-
-## 🚀 Quick Start
-
-### 1. Clone & Install
-```bash
-git clone https://github.com/yourname/flower-classification-vgg16.git
-cd flower-classification-vgg16
-pip install -r requirements.txt
